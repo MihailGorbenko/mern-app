@@ -1,0 +1,17 @@
+{
+  "name": "mern-app",
+  "version": "1.0.0",
+  "description": "mern application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "marn",
+    "node",
+    "react",
+    "mongo"
+  ],
+  "author": "Miha Go <gomihagle@gmail.com>",
+  "license": "ISC"
+}

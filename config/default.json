@@ -1,0 +1,5 @@
+
+{
+    "port" : 5000 ,
+    "mongoUri": "mongodb+srv://Miha:mihana1234@mern-app.pkrtoup.mongodb.net/?retryWrites=true&w=majority"
+}
